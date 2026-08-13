@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <title>页面不存在 · DSH 创意工坊</title>
+  <meta name="description" content="你访问的页面不存在。返回 DSH 创意工坊查看 DeepSeek Harness 插件目录。" />
+  <link rel="stylesheet" href="./assets/app.css" />
+</head>
+<body>
+  <main class="content">
+    <header class="page-head">
+      <h1>没有这个页面</h1>
+      <p>链接可能已失效。请从下面回到创意工坊。</p>
+    </header>
+    <p>
+      <a class="btn btn-primary" href="./index.html">回到概览</a>
+      <a class="btn" href="./market.html">插件目录</a>
+      <a class="btn" href="./directory.html">全部插件</a>
+      <a class="btn" href="./guide.html">上手手册</a>
+    </p>
+  </main>
+  <script>
+    var map = { market: "market.html", guide: "guide.html", publish: "publish.html", directory: "directory.html" };
+    var hash = (location.hash || "").replace(/^#\/?/, "").split("/")[0];
+    if (map[hash]) location.replace("./" + map[hash]);
+  </script>
+</body>
+</html>

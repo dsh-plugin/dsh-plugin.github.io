@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+*.log
+__pycache__/
+.venv/
+node_modules/
+.arena/
+uploads/
+assets/og.png
+*.zip
+/dsh-workshop/

@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+Disallow: /scripts/
+Disallow: /.github/
+
+Sitemap: https://dsh-plugin.github.io/sitemap.xml
+Sitemap: https://dsh-plugin.github.io/sitemap-plugins.xml
+Sitemap: https://dsh-plugin.github.io/sitemap.html

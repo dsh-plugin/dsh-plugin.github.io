@@ -1,0 +1,24 @@
+# DSH 创意工坊
+
+> 面向中文开发者的 DeepSeek Harness（DSH）社区插件目录。非官方站点。
+
+DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时，口号是 Everything is a Plugin，和 Codex CLI / Claude Code 同类，但模型、工具、皮肤、会话都可以用插件替换。
+
+## 页面
+
+- [概览](./index.html)：产品说明与精选插件
+- [插件目录](./market.html)：检索 GitHub topic `dsh-plugin`
+- [全部插件](./directory.html)：575+ 仓库的静态目录，适合抓取
+- [上手手册](./guide.html)：安装 DSH 与社区插件
+- [入驻](./publish.html)：给仓库打 topic，并把本站发布到 GitHub Pages
+
+## 常用命令
+
+```
+npx -y @deepseek-ai/dsh web
+dsh plugin --profile web add git+https://github.com/owner/repo.git
+```
+
+## 数据
+
+插件列表来自 https://github.com/topics/dsh-plugin ，快照见 data/plugins.json。
