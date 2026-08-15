@@ -5,287 +5,287 @@
     <link>https://dsh-plugin.github.io/</link>
     <description>DeepSeek Harness 社区插件工坊。检索、安装、发布 dsh-plugin。数据来自 GitHub topic，可一键挂到 GitHub Pages。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 13:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:49:15 GMT</lastBuildDate>
     <atom:link href="https://dsh-plugin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>deepseek-ai/deepseek-harness</title>
-      <link>https://dsh-plugin.github.io//market.html?p=deepseek-ai/deepseek-harness</link>
-      <guid isPermaLink="false">https://github.com/deepseek-ai/deepseek-harness#2026-08-15T12:59:53Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:53 GMT</pubDate>
-      <description>DeepSeek Harness: Everything is a Plugin. · ★ 108377 · TypeScript</description>
-    </item>
-    <item>
-      <title>xiaobright/dsh-anchored-standard</title>
-      <link>https://dsh-plugin.github.io//market.html?p=xiaobright/dsh-anchored-standard</link>
-      <guid isPermaLink="false">https://github.com/xiaobright/dsh-anchored-standard#2026-08-15T12:59:53Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:53 GMT</pubDate>
-      <description>Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) · ★ 1738 · JavaScript</description>
-    </item>
-    <item>
-      <title>AdamPlatin123/awesome-dsh-plugins</title>
-      <link>https://dsh-plugin.github.io//market.html?p=AdamPlatin123/awesome-dsh-plugins</link>
-      <guid isPermaLink="false">https://github.com/AdamPlatin123/awesome-dsh-plugins#2026-08-15T12:59:45Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:45 GMT</pubDate>
-      <description>前部索引仓库（Radar）：自动扫描发现的所有 dsh 插件候选；经测试合格的将移入后序精选目录仓库 · ★ 936 · Python</description>
-    </item>
-    <item>
-      <title>ccch1mneyyy/dsh-TUI</title>
-      <link>https://dsh-plugin.github.io//market.html?p=ccch1mneyyy/dsh-TUI</link>
-      <guid isPermaLink="false">https://github.com/ccch1mneyyy/dsh-TUI#2026-08-15T12:59:42Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:42 GMT</pubDate>
-      <description>解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。 · ★ 1139 · TypeScript</description>
-    </item>
-    <item>
-      <title>bradeGithub/DSH-Plugins-Marketplace</title>
-      <link>https://dsh-plugin.github.io//market.html?p=bradeGithub/DSH-Plugins-Marketplace</link>
-      <guid isPermaLink="false">https://github.com/bradeGithub/DSH-Plugins-Marketplace#2026-08-15T12:59:39Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:39 GMT</pubDate>
-      <description>DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install &amp; update all GitHub dsh-plugin plugins in the DSH Web GUI · ★ 60 · JavaScript</description>
-    </item>
-    <item>
-      <title>cyber-moshen/dsh-plugin-market</title>
-      <link>https://dsh-plugin.github.io//market.html?p=cyber-moshen/dsh-plugin-market</link>
-      <guid isPermaLink="false">https://github.com/cyber-moshen/dsh-plugin-market#2026-08-15T12:59:35Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:35 GMT</pubDate>
-      <description>DSH插件市场，自动更新，热重载插件，多种排序方案，快速管理和安装插件 · ★ 3 · JavaScript</description>
-    </item>
     <item>
       <title>awesome-dsh-plugin/awesome-dsh-plugin</title>
       <link>https://dsh-plugin.github.io//market.html?p=awesome-dsh-plugin/awesome-dsh-plugin</link>
-      <guid isPermaLink="false">https://github.com/awesome-dsh-plugin/awesome-dsh-plugin#2026-08-15T12:59:32Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:32 GMT</pubDate>
-      <description>A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 · ★ 2406 · Python</description>
+      <guid isPermaLink="false">https://github.com/awesome-dsh-plugin/awesome-dsh-plugin#2026-08-15T18:48:49Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:48:49 GMT</pubDate>
+      <description>A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 · ★ 2901 · Python</description>
     </item>
     <item>
-      <title>Fishsb/dsh-prompt-enhancer</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Fishsb/dsh-prompt-enhancer</link>
-      <guid isPermaLink="false">https://github.com/Fishsb/dsh-prompt-enhancer#2026-08-15T12:59:32Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:32 GMT</pubDate>
-      <description>DeepSeek Harness DSH 提示词增强插件：✨ 一键优化草稿，增强提示词。 · ★ 4 · JavaScript</description>
+      <title>deepseek-ai/deepseek-harness</title>
+      <link>https://dsh-plugin.github.io//market.html?p=deepseek-ai/deepseek-harness</link>
+      <guid isPermaLink="false">https://github.com/deepseek-ai/deepseek-harness#2026-08-15T18:48:44Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:48:44 GMT</pubDate>
+      <description>DeepSeek Harness: Everything is a Plugin. · ★ 113593 · TypeScript</description>
     </item>
     <item>
-      <title>PC2005-cloud/dsh-pet</title>
-      <link>https://dsh-plugin.github.io//market.html?p=PC2005-cloud/dsh-pet</link>
-      <guid isPermaLink="false">https://github.com/PC2005-cloud/dsh-pet#2026-08-15T12:59:29Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:29 GMT</pubDate>
-      <description>DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline · ★ 38 · JavaScript</description>
-    </item>
-    <item>
-      <title>omdsh-dev/DSH-better-sidebar</title>
-      <link>https://dsh-plugin.github.io//market.html?p=omdsh-dev/DSH-better-sidebar</link>
-      <guid isPermaLink="false">https://github.com/omdsh-dev/DSH-better-sidebar#2026-08-15T12:59:21Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:21 GMT</pubDate>
-      <description>一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理 · ★ 1021 · TypeScript</description>
-    </item>
-    <item>
-      <title>liustack/modlens</title>
-      <link>https://dsh-plugin.github.io//market.html?p=liustack/modlens</link>
-      <guid isPermaLink="false">https://github.com/liustack/modlens#2026-08-15T12:59:18Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:18 GMT</pubDate>
-      <description>The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网第一个 DeepSeek Harness 视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。 · ★ 1695 · TypeScript</description>
-    </item>
-    <item>
-      <title>juhe291/dsh-token-panel</title>
-      <link>https://dsh-plugin.github.io//market.html?p=juhe291/dsh-token-panel</link>
-      <guid isPermaLink="false">https://github.com/juhe291/dsh-token-panel#2026-08-15T12:59:15Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:15 GMT</pubDate>
-      <description>A corner HUD for DeepSeek Harness that shows your session's token pressure, per-model cost, and daily/monthly usage at a glance, with an editable budget and balance that tracks spending for you. 右下角常驻的 Token 仪表盘：实时看会话压力、按模型估算花费。预算和余额点一下就能改，每天每月用了多少都有记录。 · ★ 6 · TypeScript</description>
-    </item>
-    <item>
-      <title>Ayase34/gal-view</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Ayase34/gal-view</link>
-      <guid isPermaLink="false">https://github.com/Ayase34/gal-view#2026-08-15T12:59:04Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:04 GMT</pubDate>
-      <description>把dsh会话界面切换成galgame游戏界面的插件 · ★ 41 · JavaScript</description>
+      <title>dancingmemory/dskin</title>
+      <link>https://dsh-plugin.github.io//market.html?p=dancingmemory/dskin</link>
+      <guid isPermaLink="false">https://github.com/dancingmemory/dskin#2026-08-15T18:48:38Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:48:38 GMT</pubDate>
+      <description>DSKIN · DeepSeek Harness（DSH）卡通像素皮肤插件 / Cartoon pixel skin plugin for DSH Web GUI — 原始界面不动，像素宠物会散步、眨眼、跳跃 / living pixel pets that stroll, blink and hop · ★ 28 · TypeScript</description>
     </item>
     <item>
       <title>anywhere-labs/deepseek-harness-desktop</title>
       <link>https://dsh-plugin.github.io//market.html?p=anywhere-labs/deepseek-harness-desktop</link>
-      <guid isPermaLink="false">https://github.com/anywhere-labs/deepseek-harness-desktop#2026-08-15T12:59:03Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:03 GMT</pubDate>
-      <description>为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验 · ★ 4460 · TypeScript</description>
+      <guid isPermaLink="false">https://github.com/anywhere-labs/deepseek-harness-desktop#2026-08-15T18:48:33Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:48:33 GMT</pubDate>
+      <description>为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验 · ★ 5633 · TypeScript</description>
     </item>
     <item>
-      <title>Awu12277/dsh-stock-watch</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Awu12277/dsh-stock-watch</link>
-      <guid isPermaLink="false">https://github.com/Awu12277/dsh-stock-watch#2026-08-15T12:59:02Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:59:02 GMT</pubDate>
-      <description>A股自选股实时行情盯盘插件 - DeepSeek Harness Web 右上角可折叠弹窗 · ★ 8 · JavaScript</description>
+      <title>crafter-station/petdex</title>
+      <link>https://dsh-plugin.github.io//market.html?p=crafter-station/petdex</link>
+      <guid isPermaLink="false">https://github.com/crafter-station/petdex#2026-08-15T18:48:20Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:48:20 GMT</pubDate>
+      <description>A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. · ★ 3834 · TypeScript</description>
     </item>
     <item>
-      <title>zh667/TokenLedger</title>
-      <link>https://dsh-plugin.github.io//market.html?p=zh667/TokenLedger</link>
-      <guid isPermaLink="false">https://github.com/zh667/TokenLedger#2026-08-15T12:58:54Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:54 GMT</pubDate>
-      <description>Relay-site attributed token usage for DeepSeek Harness — zero config, no credentials · ★ 3 · JavaScript</description>
+      <title>Fishsb/dsh-prompt-enhancer</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Fishsb/dsh-prompt-enhancer</link>
+      <guid isPermaLink="false">https://github.com/Fishsb/dsh-prompt-enhancer#2026-08-15T18:48:10Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:48:10 GMT</pubDate>
+      <description>DeepSeek Harness DSH 提示词增强插件：✨ 一键优化草稿，增强提示词。 · ★ 6 · JavaScript</description>
     </item>
     <item>
-      <title>cofy-x/axern</title>
-      <link>https://dsh-plugin.github.io//market.html?p=cofy-x/axern</link>
-      <guid isPermaLink="false">https://github.com/cofy-x/axern#2026-08-15T12:58:47Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:47 GMT</pubDate>
-      <description>Open-source sandboxes for AI agents, untrusted code execution, and durable services. · ★ 167 · Go</description>
+      <title>chaojixinren/dsh-reviewer-bot</title>
+      <link>https://dsh-plugin.github.io//market.html?p=chaojixinren/dsh-reviewer-bot</link>
+      <guid isPermaLink="false">https://github.com/chaojixinren/dsh-reviewer-bot#2026-08-15T18:47:36Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:47:36 GMT</pubDate>
+      <description>原生 DeepSeek Harness 插件形态的代码评审机器人：跨代码平台、规则可插拔、可本地重放。 · ★ 6 · TypeScript</description>
     </item>
     <item>
-      <title>tt-a1i/archify</title>
-      <link>https://dsh-plugin.github.io//market.html?p=tt-a1i/archify</link>
-      <guid isPermaLink="false">https://github.com/tt-a1i/archify#2026-08-15T12:58:41Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:41 GMT</pubDate>
-      <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. · ★ 12832 · HTML</description>
+      <title>omdsh-dev/dsh-annotation</title>
+      <link>https://dsh-plugin.github.io//market.html?p=omdsh-dev/dsh-annotation</link>
+      <guid isPermaLink="false">https://github.com/omdsh-dev/dsh-annotation#2026-08-15T18:47:20Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:47:20 GMT</pubDate>
+      <description>DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotation N 逐条对照（可悬浮芯片）。官方 bundle，零核心改动 · ★ 54 · JavaScript</description>
     </item>
     <item>
-      <title>titanwings/dsh-automation</title>
-      <link>https://dsh-plugin.github.io//market.html?p=titanwings/dsh-automation</link>
-      <guid isPermaLink="false">https://github.com/titanwings/dsh-automation#2026-08-15T12:58:40Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:40 GMT</pubDate>
-      <description>DSH 自动化插件：让 Coding 任务按计划在全新 Agent Session 中运行，并由用户或 Agent 创建和管理定时任务。 / Run coding tasks in fresh Agent sessions and manage schedules from DSH Web or an Agent. · ★ 38 · TypeScript</description>
+      <title>bruc3van/awesome-dsh-plugin</title>
+      <link>https://dsh-plugin.github.io//market.html?p=bruc3van/awesome-dsh-plugin</link>
+      <guid isPermaLink="false">https://github.com/bruc3van/awesome-dsh-plugin#2026-08-15T18:47:18Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:47:18 GMT</pubDate>
+      <description>用 30 秒找到适合你的 DeepSeek Harness 插件。 不只是仓库列表：这里告诉你插件解决什么问题、适合谁，以及从哪里开始。 · ★ 147 · JavaScript</description>
     </item>
     <item>
-      <title>omdsh-dev/dsh-book2skill</title>
-      <link>https://dsh-plugin.github.io//market.html?p=omdsh-dev/dsh-book2skill</link>
-      <guid isPermaLink="false">https://github.com/omdsh-dev/dsh-book2skill#2026-08-15T12:58:39Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:39 GMT</pubDate>
-      <description>DSH book-to-skill plugin: a 5-stage long task (fetch → parse → understand → generate → install) with 3 human gates, host tools for the agent and a browser timeline panel · ★ 4 · TypeScript</description>
+      <title>nexu-io/open-design</title>
+      <link>https://dsh-plugin.github.io//market.html?p=nexu-io/open-design</link>
+      <guid isPermaLink="false">https://github.com/nexu-io/open-design#2026-08-15T18:47:11Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:47:11 GMT</pubDate>
+      <description>🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode / Hermes &amp; 20+ CLIs via BYOK. · ★ 86879 · TypeScript</description>
+    </item>
+    <item>
+      <title>Lxiayu/DshCockpit</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Lxiayu/DshCockpit</link>
+      <guid isPermaLink="false">https://github.com/Lxiayu/DshCockpit#2026-08-15T18:46:56Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:46:56 GMT</pubDate>
+      <description>Desktop cockpit for DeepSeek Harness (dsh): token usage &amp; cost tracking, budget alerts, runtime auto-update with rollback, Quick Ask hotkey, scheduled tasks, session search. Win+macOS. DeepSeek Harness 桌面驾驶舱：成本/用量监控 · 自动更新 · 定时任务 · ★ 8 · JavaScript</description>
     </item>
     <item>
       <title>astra3294/dsh-doctor</title>
       <link>https://dsh-plugin.github.io//market.html?p=astra3294/dsh-doctor</link>
-      <guid isPermaLink="false">https://github.com/astra3294/dsh-doctor#2026-08-15T12:58:38Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:38 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/astra3294/dsh-doctor#2026-08-15T18:46:55Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:46:55 GMT</pubDate>
       <description>Deterministic diagnostics and recovery for DeepSeek Harness · ★ 3 · TypeScript</description>
     </item>
     <item>
-      <title>zhijun-dai/Catppuccin-dsh-theme</title>
-      <link>https://dsh-plugin.github.io//market.html?p=zhijun-dai/Catppuccin-dsh-theme</link>
-      <guid isPermaLink="false">https://github.com/zhijun-dai/Catppuccin-dsh-theme#2026-08-15T12:58:35Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:35 GMT</pubDate>
-      <description>🐱 Soothing pastel theme for DeepSeek Harness · ★ 5 · JavaScript</description>
+      <title>KinGao294/dsh-skin</title>
+      <link>https://dsh-plugin.github.io//market.html?p=KinGao294/dsh-skin</link>
+      <guid isPermaLink="false">https://github.com/KinGao294/dsh-skin#2026-08-15T18:46:35Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:46:35 GMT</pubDate>
+      <description>Skin switcher + custom wallpaper for DeepSeek Harness (dsh): curated --dsw-alias-* palettes, translucent wallpaper with opacity/blur controls, persisted per browser (like Codex themes) — 换皮肤 / 自定义背景插件 · ★ 12 · JavaScript</description>
     </item>
     <item>
-      <title>chnjames/dsh-plugin-market</title>
-      <link>https://dsh-plugin.github.io//market.html?p=chnjames/dsh-plugin-market</link>
-      <guid isPermaLink="false">https://github.com/chnjames/dsh-plugin-market#2026-08-15T12:58:28Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:28 GMT</pubDate>
-      <description>DSH 插件市场 — DeepSeek Harness 设置内一键安装社区插件，并提供公开目录站（浏览 / 复制安装命令） · ★ 3 · TypeScript</description>
+      <title>Karbo123/DSH-EvoResearch</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Karbo123/DSH-EvoResearch</link>
+      <guid isPermaLink="false">https://github.com/Karbo123/DSH-EvoResearch#2026-08-15T18:46:13Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:46:13 GMT</pubDate>
+      <description>自进化科研工作流 · ★ 5 · TypeScript</description>
     </item>
     <item>
-      <title>GuoMonth/dsh-multi-tenant</title>
-      <link>https://dsh-plugin.github.io//market.html?p=GuoMonth/dsh-multi-tenant</link>
-      <guid isPermaLink="false">https://github.com/GuoMonth/dsh-multi-tenant#2026-08-15T12:58:25Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:25 GMT</pubDate>
-      <description>Multi-tenant SaaS extension for DeepSeek Harness (DSH): tenant identity, session isolation, authorization, tenant-aware MCP, and audit. · ★ 3 · TypeScript</description>
-    </item>
-    <item>
-      <title>rongzi5/dsh-whale-pet</title>
-      <link>https://dsh-plugin.github.io//market.html?p=rongzi5/dsh-whale-pet</link>
-      <guid isPermaLink="false">https://github.com/rongzi5/dsh-whale-pet#2026-08-15T12:58:23Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:23 GMT</pubDate>
-      <description>暂无简介 · ★ 4 · JavaScript</description>
-    </item>
-    <item>
-      <title>wink-run/tokenbank</title>
-      <link>https://dsh-plugin.github.io//market.html?p=wink-run/tokenbank</link>
-      <guid isPermaLink="false">https://github.com/wink-run/tokenbank#2026-08-15T12:58:13Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:13 GMT</pubDate>
-      <description>Token Bank — the local LLM gateway that sits between your AI agents and every provider.  Know where tokens go · Spend less with smart routing to Ollama, Groq, GitHub Models · Earn by sharing idle quota on a community P2P network.  One-click onboarding for Cursor, Claude Code, Codex CLI, Gemini CLI — no agent changes. Full trace, seamless model swap · ★ 73 · JavaScript</description>
-    </item>
-    <item>
-      <title>alingalingling/ui-status-label</title>
-      <link>https://dsh-plugin.github.io//market.html?p=alingalingling/ui-status-label</link>
-      <guid isPermaLink="false">https://github.com/alingalingling/ui-status-label#2026-08-15T12:58:03Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:03 GMT</pubDate>
-      <description>把你鲸鱼娘思考时的 deep diving 自定义成任意你想要的样子 · ★ 32 · TypeScript</description>
-    </item>
-    <item>
-      <title>Electricitysheep/dsh-handbook</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Electricitysheep/dsh-handbook</link>
-      <guid isPermaLink="false">https://github.com/Electricitysheep/dsh-handbook#2026-08-15T12:58:01Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:01 GMT</pubDate>
-      <description>DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF） · ★ 271 · Python</description>
-    </item>
-    <item>
-      <title>HsiangNianian/dsh-auto-continue</title>
-      <link>https://dsh-plugin.github.io//market.html?p=HsiangNianian/dsh-auto-continue</link>
-      <guid isPermaLink="false">https://github.com/HsiangNianian/dsh-auto-continue#2026-08-15T12:58:00Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:58:00 GMT</pubDate>
-      <description>DSH Web UI plugin: auto-sends 「继续」 to resume requests interrupted by network errors or other non-human causes — error classification, adaptive backoff, templated continue text, browser notifications, all configurable from the settings card · ★ 15 · JavaScript</description>
-    </item>
-    <item>
-      <title>0xsline/awesome-deepseek-harness</title>
-      <link>https://dsh-plugin.github.io//market.html?p=0xsline/awesome-deepseek-harness</link>
-      <guid isPermaLink="false">https://github.com/0xsline/awesome-deepseek-harness#2026-08-15T12:57:40Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:57:40 GMT</pubDate>
-      <description>DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic. · ★ 456 · Python</description>
-    </item>
-    <item>
-      <title>dsh-market/dsh-market</title>
-      <link>https://dsh-plugin.github.io//market.html?p=dsh-market/dsh-market</link>
-      <guid isPermaLink="false">https://github.com/dsh-market/dsh-market#2026-08-15T12:57:36Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:57:36 GMT</pubDate>
-      <description>The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场 · ★ 207 · TypeScript</description>
-    </item>
-    <item>
-      <title>lehhair/dsh-diff-viewer</title>
-      <link>https://dsh-plugin.github.io//market.html?p=lehhair/dsh-diff-viewer</link>
-      <guid isPermaLink="false">https://github.com/lehhair/dsh-diff-viewer#2026-08-15T12:57:36Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:57:36 GMT</pubDate>
-      <description>DSH Web GUI PiUI-style diff viewer plugin: replaces the stock DiffBlock for write/edit tool calls via ui-tool diff-card chain slots (host patch included). Private. · ★ 12 · TypeScript</description>
-    </item>
-    <item>
-      <title>the-beating-light-of-the-nail/dsh-meme-hub</title>
-      <link>https://dsh-plugin.github.io//market.html?p=the-beating-light-of-the-nail/dsh-meme-hub</link>
-      <guid isPermaLink="false">https://github.com/the-beating-light-of-the-nail/dsh-meme-hub#2026-08-15T12:57:35Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:57:35 GMT</pubDate>
-      <description>🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins · ★ 19 · </description>
-    </item>
-    <item>
-      <title>Fisfzy/ego-browser</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Fisfzy/ego-browser</link>
-      <guid isPermaLink="false">https://github.com/Fisfzy/ego-browser#2026-08-15T12:57:18Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:57:18 GMT</pubDate>
-      <description>DSH（DeepSeek Harness）插件：把 ego-lite 浏览器（给 AI Agent 用的 Chromium）接入 HARNESS——13 个结构化 ego_* 工具（文本语义快照、语义定位点击、表单填充、截图、CDP 控制、任务空间隔离），内置 ego 运行时，Linux + Chrome 开箱即用，无需克隆官方仓库或手动构建。 · ★ 13 · JavaScript</description>
+      <title>whiteguo233/OpenBiliClaw</title>
+      <link>https://dsh-plugin.github.io//market.html?p=whiteguo233/OpenBiliClaw</link>
+      <guid isPermaLink="false">https://github.com/whiteguo233/OpenBiliClaw#2026-08-15T18:46:11Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:46:11 GMT</pubDate>
+      <description>本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin） · ★ 2549 · Python</description>
     </item>
     <item>
       <title>zhu1090093659/dsh-web-ui</title>
       <link>https://dsh-plugin.github.io//market.html?p=zhu1090093659/dsh-web-ui</link>
-      <guid isPermaLink="false">https://github.com/zhu1090093659/dsh-web-ui#2026-08-15T12:57:12Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:57:12 GMT</pubDate>
-      <description>Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center. · ★ 2444 · TypeScript</description>
+      <guid isPermaLink="false">https://github.com/zhu1090093659/dsh-web-ui#2026-08-15T18:45:54Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:45:54 GMT</pubDate>
+      <description>Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center. · ★ 2662 · TypeScript</description>
     </item>
     <item>
-      <title>titanwings/colleague-skill</title>
-      <link>https://dsh-plugin.github.io//market.html?p=titanwings/colleague-skill</link>
-      <guid isPermaLink="false">https://github.com/titanwings/colleague-skill#2026-08-15T12:57:06Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:57:06 GMT</pubDate>
-      <description>将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 · ★ 22313 · Python</description>
+      <title>railgun0325/dsh-phone</title>
+      <link>https://dsh-plugin.github.io//market.html?p=railgun0325/dsh-phone</link>
+      <guid isPermaLink="false">https://github.com/railgun0325/dsh-phone#2026-08-15T18:45:45Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:45:45 GMT</pubDate>
+      <description>让 DeepSeek Harness 的 agent 跑在手机里，通过 Magisk root 原生操作安卓系统（截图/点击/滑动/开应用）+ 移动端布局 + WebView APK · ★ 8 · Java</description>
     </item>
     <item>
-      <title>joejojoking-cloud/dsh-file-explorer</title>
-      <link>https://dsh-plugin.github.io//market.html?p=joejojoking-cloud/dsh-file-explorer</link>
-      <guid isPermaLink="false">https://github.com/joejojoking-cloud/dsh-file-explorer#2026-08-15T12:57:00Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:57:00 GMT</pubDate>
-      <description>File explorer plugin for DeepSeek Harness: file tree, preview, markdown, syntax highlighting, in-panel editing, VS Code integration - DeepSeek Harness 全局文件资源管理器插件 · ★ 14 · JavaScript</description>
+      <title>omdsh-dev/DSH-better-sidebar</title>
+      <link>https://dsh-plugin.github.io//market.html?p=omdsh-dev/DSH-better-sidebar</link>
+      <guid isPermaLink="false">https://github.com/omdsh-dev/DSH-better-sidebar#2026-08-15T18:45:44Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:45:44 GMT</pubDate>
+      <description>一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理 · ★ 1234 · TypeScript</description>
     </item>
     <item>
-      <title>WEP-56/DSH-Launcher</title>
-      <link>https://dsh-plugin.github.io//market.html?p=WEP-56/DSH-Launcher</link>
-      <guid isPermaLink="false">https://github.com/WEP-56/DSH-Launcher#2026-08-15T12:56:42Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:56:42 GMT</pubDate>
-      <description>deepseek harness的启动器，非webui二次打包而是webui内嵌，可以适配所有webui强化插件。额外提供dsh包管理、配置文件管理、插件管理、浏览器标签页、多窗口等功能 · ★ 11 · Rust</description>
+      <title>Nagi-ovo/dsh-visualize</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Nagi-ovo/dsh-visualize</link>
+      <guid isPermaLink="false">https://github.com/Nagi-ovo/dsh-visualize#2026-08-15T18:45:24Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:45:24 GMT</pubDate>
+      <description>在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations · ★ 117 · TypeScript</description>
     </item>
     <item>
-      <title>csyangwen/dsh-memory-evolve</title>
-      <link>https://dsh-plugin.github.io//market.html?p=csyangwen/dsh-memory-evolve</link>
-      <guid isPermaLink="false">https://github.com/csyangwen/dsh-memory-evolve#2026-08-15T12:56:40Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:56:40 GMT</pubDate>
-      <description>为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。 · ★ 79 · JavaScript</description>
+      <title>NEXTINDIE/DeepSeek-Harness-for-VS-Code</title>
+      <link>https://dsh-plugin.github.io//market.html?p=NEXTINDIE/DeepSeek-Harness-for-VS-Code</link>
+      <guid isPermaLink="false">https://github.com/NEXTINDIE/DeepSeek-Harness-for-VS-Code#2026-08-15T18:45:24Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:45:24 GMT</pubDate>
+      <description>DeepSeek Harness for VS Code: @dsh chat participant, sidebar &amp; standalone chat, plan mode, goals, subagents, turn-level Git rollback, workspaces/jobs/settings panels, 13-language UI. · ★ 4 · TypeScript</description>
     </item>
     <item>
-      <title>yjh051108/dsh-super-injector</title>
-      <link>https://dsh-plugin.github.io//market.html?p=yjh051108/dsh-super-injector</link>
-      <guid isPermaLink="false">https://github.com/yjh051108/dsh-super-injector#2026-08-15T12:56:38Z</guid>
-      <pubDate>Sat, 15 Aug 2026 12:56:38 GMT</pubDate>
-      <description>暂无简介 · ★ 44 · TypeScript</description>
+      <title>tt-a1i/archify</title>
+      <link>https://dsh-plugin.github.io//market.html?p=tt-a1i/archify</link>
+      <guid isPermaLink="false">https://github.com/tt-a1i/archify#2026-08-15T18:45:14Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:45:14 GMT</pubDate>
+      <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. · ★ 12931 · HTML</description>
+    </item>
+    <item>
+      <title>omdsh-dev/fabric</title>
+      <link>https://dsh-plugin.github.io//market.html?p=omdsh-dev/fabric</link>
+      <guid isPermaLink="false">https://github.com/omdsh-dev/fabric#2026-08-15T18:44:54Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:44:54 GMT</pubDate>
+      <description>一种类似MC Fabric的hook处理器 · ★ 10 · TypeScript</description>
+    </item>
+    <item>
+      <title>0xsline/awesome-deepseek-harness</title>
+      <link>https://dsh-plugin.github.io//market.html?p=0xsline/awesome-deepseek-harness</link>
+      <guid isPermaLink="false">https://github.com/0xsline/awesome-deepseek-harness#2026-08-15T18:44:42Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:44:42 GMT</pubDate>
+      <description>DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic. · ★ 484 · Python</description>
+    </item>
+    <item>
+      <title>hyhmrright/brooks-lint</title>
+      <link>https://dsh-plugin.github.io//market.html?p=hyhmrright/brooks-lint</link>
+      <guid isPermaLink="false">https://github.com/hyhmrright/brooks-lint#2026-08-15T18:43:30Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:43:30 GMT</pubDate>
+      <description>AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix · ★ 1347 · JavaScript</description>
+    </item>
+    <item>
+      <title>ysr666/dsh-vision-router</title>
+      <link>https://dsh-plugin.github.io//market.html?p=ysr666/dsh-vision-router</link>
+      <guid isPermaLink="false">https://github.com/ysr666/dsh-vision-router#2026-08-15T18:43:22Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:43:22 GMT</pubDate>
+      <description>Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&amp;A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns. · ★ 138 · JavaScript</description>
+    </item>
+    <item>
+      <title>freestylefly/awesome-gpt-image-2</title>
+      <link>https://dsh-plugin.github.io//market.html?p=freestylefly/awesome-gpt-image-2</link>
+      <guid isPermaLink="false">https://github.com/freestylefly/awesome-gpt-image-2#2026-08-15T18:43:01Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:43:01 GMT</pubDate>
+      <description>Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 · ★ 10294 · JavaScript</description>
+    </item>
+    <item>
+      <title>weinibuliu/deepseek-harness-vsc-extension</title>
+      <link>https://dsh-plugin.github.io//market.html?p=weinibuliu/deepseek-harness-vsc-extension</link>
+      <guid isPermaLink="false">https://github.com/weinibuliu/deepseek-harness-vsc-extension#2026-08-15T18:43:00Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:43:00 GMT</pubDate>
+      <description>DeepSeek Harness as VSCode Extension · ★ 7 · TypeScript</description>
+    </item>
+    <item>
+      <title>Nagi-ovo/dsh-find-plugins</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Nagi-ovo/dsh-find-plugins</link>
+      <guid isPermaLink="false">https://github.com/Nagi-ovo/dsh-find-plugins#2026-08-15T18:42:59Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:42:59 GMT</pubDate>
+      <description>帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins · ★ 96 · JavaScript</description>
+    </item>
+    <item>
+      <title>WYH66666666/DSH-Transparent-UI-Plugin</title>
+      <link>https://dsh-plugin.github.io//market.html?p=WYH66666666/DSH-Transparent-UI-Plugin</link>
+      <guid isPermaLink="false">https://github.com/WYH66666666/DSH-Transparent-UI-Plugin#2026-08-15T18:42:56Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:42:56 GMT</pubDate>
+      <description>是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。 · ★ 35 · JavaScript</description>
+    </item>
+    <item>
+      <title>xiaobright/dsh-anchored-standard</title>
+      <link>https://dsh-plugin.github.io//market.html?p=xiaobright/dsh-anchored-standard</link>
+      <guid isPermaLink="false">https://github.com/xiaobright/dsh-anchored-standard#2026-08-15T18:42:50Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:42:50 GMT</pubDate>
+      <description>Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) · ★ 2112 · JavaScript</description>
+    </item>
+    <item>
+      <title>ccch1mneyyy/dsh-TUI</title>
+      <link>https://dsh-plugin.github.io//market.html?p=ccch1mneyyy/dsh-TUI</link>
+      <guid isPermaLink="false">https://github.com/ccch1mneyyy/dsh-TUI#2026-08-15T18:42:38Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:42:38 GMT</pubDate>
+      <description>解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。 · ★ 1243 · TypeScript</description>
+    </item>
+    <item>
+      <title>ZSeven-W/dsh-noema</title>
+      <link>https://dsh-plugin.github.io//market.html?p=ZSeven-W/dsh-noema</link>
+      <guid isPermaLink="false">https://github.com/ZSeven-W/dsh-noema#2026-08-15T18:42:35Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:42:35 GMT</pubDate>
+      <description>Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page. · ★ 41 · TypeScript</description>
+    </item>
+    <item>
+      <title>Ayase34/gal-view</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Ayase34/gal-view</link>
+      <guid isPermaLink="false">https://github.com/Ayase34/gal-view#2026-08-15T18:42:28Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:42:28 GMT</pubDate>
+      <description>把dsh会话界面切换成galgame游戏界面的插件 · ★ 51 · JavaScript</description>
+    </item>
+    <item>
+      <title>MeowLynxSea/dsh-cot-summerization</title>
+      <link>https://dsh-plugin.github.io//market.html?p=MeowLynxSea/dsh-cot-summerization</link>
+      <guid isPermaLink="false">https://github.com/MeowLynxSea/dsh-cot-summerization#2026-08-15T18:42:14Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:42:14 GMT</pubDate>
+      <description>暂无简介 · ★ 3 · JavaScript</description>
+    </item>
+    <item>
+      <title>Devin-AXIS/deepseek-design</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Devin-AXIS/deepseek-design</link>
+      <guid isPermaLink="false">https://github.com/Devin-AXIS/deepseek-design#2026-08-15T18:42:02Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:42:02 GMT</pubDate>
+      <description>DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design &amp; PPT Studio for DeepSeek Harness. · ★ 9 · JavaScript</description>
+    </item>
+    <item>
+      <title>Anionex/dsh-vision-toolkit</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Anionex/dsh-vision-toolkit</link>
+      <guid isPermaLink="false">https://github.com/Anionex/dsh-vision-toolkit#2026-08-15T18:41:48Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:41:48 GMT</pubDate>
+      <description>让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&amp;A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI. · ★ 429 · TypeScript</description>
+    </item>
+    <item>
+      <title>morluto/leantoken</title>
+      <link>https://dsh-plugin.github.io//market.html?p=morluto/leantoken</link>
+      <guid isPermaLink="false">https://github.com/morluto/leantoken#2026-08-15T18:41:48Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:41:48 GMT</pubDate>
+      <description>Code intelligence for agents: find the code that matters and keep your context window and tokens lean. · ★ 18 · Rust</description>
+    </item>
+    <item>
+      <title>AdamPlatin123/awesome-dsh-plugins</title>
+      <link>https://dsh-plugin.github.io//market.html?p=AdamPlatin123/awesome-dsh-plugins</link>
+      <guid isPermaLink="false">https://github.com/AdamPlatin123/awesome-dsh-plugins#2026-08-15T18:41:32Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:41:32 GMT</pubDate>
+      <description>前部索引仓库（Radar）：自动扫描发现的所有 dsh 插件候选；经测试合格的将移入后序精选目录仓库 · ★ 965 · Python</description>
+    </item>
+    <item>
+      <title>hust-open-atom-club/oh-dsh</title>
+      <link>https://dsh-plugin.github.io//market.html?p=hust-open-atom-club/oh-dsh</link>
+      <guid isPermaLink="false">https://github.com/hust-open-atom-club/oh-dsh#2026-08-15T18:41:01Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:41:01 GMT</pubDate>
+      <description>一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 · ★ 193 · TypeScript</description>
+    </item>
+    <item>
+      <title>PlutoKeating/dsh-lark-bot</title>
+      <link>https://dsh-plugin.github.io//market.html?p=PlutoKeating/dsh-lark-bot</link>
+      <guid isPermaLink="false">https://github.com/PlutoKeating/dsh-lark-bot#2026-08-15T18:40:35Z</guid>
+      <pubDate>Sat, 15 Aug 2026 18:40:35 GMT</pubDate>
+      <description>dsh-lark-bot：把 DeepSeek Harness (dsh) 桥接进飞书/Lark 的 bot，含完整项目工作区管理、并行任务、多角色 Agent、会话归档与安全网守护（dsh 崩溃后飞书仍可自救）。A bridge bot connecting DeepSeek Harness (dsh) into Feishu/Lark with full workspace management, parallel tasks, multi-role agents, session archival and a safety-net guardian. deepseek · deepseek harness · feishu · lark · bridge · bot · ★ 16 · TypeScript</description>
     </item>
   </channel>
 </rss>
