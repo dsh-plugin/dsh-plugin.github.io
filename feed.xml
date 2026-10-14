@@ -5,287 +5,287 @@
     <link>https://dsh-plugin.github.io/</link>
     <description>DeepSeek Harness 社区插件工坊。检索、安装、发布 dsh-plugin。数据来自 GitHub topic，可一键挂到 GitHub Pages。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 17:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:43:20 GMT</lastBuildDate>
     <atom:link href="https://dsh-plugin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>FeatherHunter/dsh-prompt</title>
-      <link>https://dsh-plugin.github.io//market.html?p=FeatherHunter/dsh-prompt</link>
-      <guid isPermaLink="false">https://github.com/FeatherHunter/dsh-prompt#2026-10-14T17:13:09Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:13:09 GMT</pubDate>
-      <description>DeepSeek Harness 的 Prompt 工具箱：别再复制粘贴——24 条深度模板随手点，/prompt 与智能推荐主动兜底，装好即用、可自定义。 | The Prompt toolbox for DeepSeek Harness: stop copy-pasting — 24 deep templates at a click, /prompt &amp; smart suggestions as backup; out of the box, fully customizable. · ★ 37 · JavaScript</description>
-    </item>
     <item>
       <title>morluto/rea</title>
       <link>https://dsh-plugin.github.io//market.html?p=morluto/rea</link>
-      <guid isPermaLink="false">https://github.com/morluto/rea#2026-10-14T17:12:51Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:12:51 GMT</pubDate>
-      <description>Reverse engineer anything with agents, from app behavior down to native binaries. · ★ 234684 · TypeScript</description>
+      <guid isPermaLink="false">https://github.com/morluto/rea#2026-10-14T21:42:47Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:42:47 GMT</pubDate>
+      <description>Reverse engineer anything with agents, from app behavior down to native binaries. · ★ 239261 · TypeScript</description>
     </item>
     <item>
-      <title>T-Auto/dsh-ops</title>
-      <link>https://dsh-plugin.github.io//market.html?p=T-Auto/dsh-ops</link>
-      <guid isPermaLink="false">https://github.com/T-Auto/dsh-ops#2026-10-14T17:12:20Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:12:20 GMT</pubDate>
-      <description>A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时 · ★ 1461 · JavaScript</description>
-    </item>
-    <item>
-      <title>Ebony-Vinyl/dsh-our-free-model</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Ebony-Vinyl/dsh-our-free-model</link>
-      <guid isPermaLink="false">https://github.com/Ebony-Vinyl/dsh-our-free-model#2026-10-14T17:12:06Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:12:06 GMT</pubDate>
-      <description>在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap. · ★ 15973 · JavaScript</description>
-    </item>
-    <item>
-      <title>MichengAI/dsh-automation</title>
-      <link>https://dsh-plugin.github.io//market.html?p=MichengAI/dsh-automation</link>
-      <guid isPermaLink="false">https://github.com/MichengAI/dsh-automation#2026-10-14T17:11:47Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:11:47 GMT</pubDate>
-      <description>DSH Automation — 在独立 DSH Session 中按计划执行和管理编码任务 · Schedule and manage coding tasks in isolated DSH sessions · ★ 26 · JavaScript</description>
-    </item>
-    <item>
-      <title>Ayuilos/Miffan</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Ayuilos/Miffan</link>
-      <guid isPermaLink="false">https://github.com/Ayuilos/Miffan#2026-10-14T17:11:29Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:11:29 GMT</pubDate>
-      <description>RikkaHub fork，Android AI 客户端。支持 ChatGPT 订阅登录使用、跨应用划词悬浮翻译、助手工作区文件隔离、远程云电脑控制、文档与 HTML 预览、可定制动态角色。 · ★ 259 · Kotlin</description>
-    </item>
-    <item>
-      <title>deepseek-ai/deepseek-harness</title>
-      <link>https://dsh-plugin.github.io//market.html?p=deepseek-ai/deepseek-harness</link>
-      <guid isPermaLink="false">https://github.com/deepseek-ai/deepseek-harness#2026-10-14T17:11:12Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:11:12 GMT</pubDate>
-      <description>DeepSeek Harness: Everything is a Plugin. · ★ 249593 · TypeScript</description>
-    </item>
-    <item>
-      <title>WSL043/dsh-codex-subscription</title>
-      <link>https://dsh-plugin.github.io//market.html?p=WSL043/dsh-codex-subscription</link>
-      <guid isPermaLink="false">https://github.com/WSL043/dsh-codex-subscription#2026-10-14T17:11:12Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:11:12 GMT</pubDate>
-      <description>Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 &amp; Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。 · ★ 175 · JavaScript</description>
+      <title>liqiGeGe/dsh-plugin-execution-graph</title>
+      <link>https://dsh-plugin.github.io//market.html?p=liqiGeGe/dsh-plugin-execution-graph</link>
+      <guid isPermaLink="false">https://github.com/liqiGeGe/dsh-plugin-execution-graph#2026-10-14T21:42:12Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:42:12 GMT</pubDate>
+      <description>A DeepSeek Harness (DSH) client plugin that adds an "Execution graph" tab to the conversation view. It reconstructs one session turn's activity as a vertical timeline on a React Flow canvas · ★ 21 · TypeScript</description>
     </item>
     <item>
       <title>Tencent/WeKnora</title>
       <link>https://dsh-plugin.github.io//market.html?p=Tencent/WeKnora</link>
-      <guid isPermaLink="false">https://github.com/Tencent/WeKnora#2026-10-14T17:10:51Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:10:51 GMT</pubDate>
-      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. · ★ 33957 · Go</description>
+      <guid isPermaLink="false">https://github.com/Tencent/WeKnora#2026-10-14T21:41:55Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:41:55 GMT</pubDate>
+      <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. · ★ 33984 · Go</description>
     </item>
     <item>
-      <title>Fei2411/DeepSeek-Bot</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Fei2411/DeepSeek-Bot</link>
-      <guid isPermaLink="false">https://github.com/Fei2411/DeepSeek-Bot#2026-10-14T17:10:25Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:10:25 GMT</pubDate>
-      <description>A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. · ★ 1856 · JavaScript</description>
+      <title>deepseek-ai/deepseek-harness</title>
+      <link>https://dsh-plugin.github.io//market.html?p=deepseek-ai/deepseek-harness</link>
+      <guid isPermaLink="false">https://github.com/deepseek-ai/deepseek-harness#2026-10-14T21:41:52Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:41:52 GMT</pubDate>
+      <description>DeepSeek Harness: Everything is a Plugin. · ★ 249649 · TypeScript</description>
     </item>
     <item>
-      <title>Ebony-Vinyl/EAC-Desktop</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Ebony-Vinyl/EAC-Desktop</link>
-      <guid isPermaLink="false">https://github.com/Ebony-Vinyl/EAC-Desktop#2026-10-14T17:10:18Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:10:18 GMT</pubDate>
-      <description>Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存 · ★ 2017 · TypeScript</description>
+      <title>BotHarness/DeepSeekBot</title>
+      <link>https://dsh-plugin.github.io//market.html?p=BotHarness/DeepSeekBot</link>
+      <guid isPermaLink="false">https://github.com/BotHarness/DeepSeekBot#2026-10-14T21:41:32Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:41:32 GMT</pubDate>
+      <description>Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT. · ★ 82 · TypeScript</description>
     </item>
     <item>
-      <title>QingYunA/answer-me-with-html</title>
-      <link>https://dsh-plugin.github.io//market.html?p=QingYunA/answer-me-with-html</link>
-      <guid isPermaLink="false">https://github.com/QingYunA/answer-me-with-html#2026-10-14T17:10:17Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:10:17 GMT</pubDate>
-      <description>Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 · ★ 3352 · JavaScript</description>
-    </item>
-    <item>
-      <title>anywhere-labs/dsh-desktop</title>
-      <link>https://dsh-plugin.github.io//market.html?p=anywhere-labs/dsh-desktop</link>
-      <guid isPermaLink="false">https://github.com/anywhere-labs/dsh-desktop#2026-10-14T17:10:05Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:10:05 GMT</pubDate>
-      <description>为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 · ★ 30821 · TypeScript</description>
-    </item>
-    <item>
-      <title>Nagi-ovo/dsh-ads</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Nagi-ovo/dsh-ads</link>
-      <guid isPermaLink="false">https://github.com/Nagi-ovo/dsh-ads#2026-10-14T17:10:03Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:10:03 GMT</pubDate>
-      <description>把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI · ★ 667 · TypeScript</description>
-    </item>
-    <item>
-      <title>superdesigndev/treg</title>
-      <link>https://dsh-plugin.github.io//market.html?p=superdesigndev/treg</link>
-      <guid isPermaLink="false">https://github.com/superdesigndev/treg#2026-10-14T17:09:09Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:09:09 GMT</pubDate>
-      <description>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn · ★ 5292 · Python</description>
-    </item>
-    <item>
-      <title>tt-a1i/archify</title>
-      <link>https://dsh-plugin.github.io//market.html?p=tt-a1i/archify</link>
-      <guid isPermaLink="false">https://github.com/tt-a1i/archify#2026-10-14T17:09:05Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:09:05 GMT</pubDate>
-      <description>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. · ★ 83450 · JavaScript</description>
-    </item>
-    <item>
-      <title>ChongCyrus/Vibe-Mathematics</title>
-      <link>https://dsh-plugin.github.io//market.html?p=ChongCyrus/Vibe-Mathematics</link>
-      <guid isPermaLink="false">https://github.com/ChongCyrus/Vibe-Mathematics#2026-10-14T17:09:04Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:09:04 GMT</pubDate>
-      <description>Vibe Mathematics —— 多代理数学问题求解与形式化验证框架 · ★ 36 · JavaScript</description>
-    </item>
-    <item>
-      <title>flymysql/dsh-remote</title>
-      <link>https://dsh-plugin.github.io//market.html?p=flymysql/dsh-remote</link>
-      <guid isPermaLink="false">https://github.com/flymysql/dsh-remote#2026-10-14T17:08:53Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:08:53 GMT</pubDate>
-      <description>Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace. · ★ 139 · JavaScript</description>
+      <title>Ebony-Vinyl/dsh-our-free-model</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Ebony-Vinyl/dsh-our-free-model</link>
+      <guid isPermaLink="false">https://github.com/Ebony-Vinyl/dsh-our-free-model#2026-10-14T21:41:30Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:41:30 GMT</pubDate>
+      <description>在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap. · ★ 16095 · JavaScript</description>
     </item>
     <item>
       <title>Clearailhc/clearai-dsh</title>
       <link>https://dsh-plugin.github.io//market.html?p=Clearailhc/clearai-dsh</link>
-      <guid isPermaLink="false">https://github.com/Clearailhc/clearai-dsh#2026-10-14T17:08:42Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:08:42 GMT</pubDate>
-      <description>ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology. · ★ 895 · JavaScript</description>
-    </item>
-    <item>
-      <title>FeatherHunter/dsh-mattpocock-skills-deck</title>
-      <link>https://dsh-plugin.github.io//market.html?p=FeatherHunter/dsh-mattpocock-skills-deck</link>
-      <guid isPermaLink="false">https://github.com/FeatherHunter/dsh-mattpocock-skills-deck#2026-10-14T17:08:35Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:08:35 GMT</pubDate>
-      <description>安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感谢您的使用和支持💗 · ★ 148 · JavaScript</description>
-    </item>
-    <item>
-      <title>Nwflower/dsh-claude-style</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Nwflower/dsh-claude-style</link>
-      <guid isPermaLink="false">https://github.com/Nwflower/dsh-claude-style#2026-10-14T17:08:32Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:08:32 GMT</pubDate>
-      <description>Claude Code Desktop theme for DeepSeek Harness｜ 为 DeepSeek Harness 网页 GUI 打造的 Claude Code 桌面主题 · ★ 156 · TypeScript</description>
-    </item>
-    <item>
-      <title>pax-beehive/dsh-hub-cli</title>
-      <link>https://dsh-plugin.github.io//market.html?p=pax-beehive/dsh-hub-cli</link>
-      <guid isPermaLink="false">https://github.com/pax-beehive/dsh-hub-cli#2026-10-14T17:08:21Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:08:21 GMT</pubDate>
-      <description>Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub · ★ 450 · TypeScript</description>
-    </item>
-    <item>
-      <title>ccch1mneyyy/dsh-TUI</title>
-      <link>https://dsh-plugin.github.io//market.html?p=ccch1mneyyy/dsh-TUI</link>
-      <guid isPermaLink="false">https://github.com/ccch1mneyyy/dsh-TUI#2026-10-14T17:07:57Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:07:57 GMT</pubDate>
-      <description>DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装 · ★ 4593 · TypeScript</description>
-    </item>
-    <item>
-      <title>YuJunZhiXue/dsh-purge</title>
-      <link>https://dsh-plugin.github.io//market.html?p=YuJunZhiXue/dsh-purge</link>
-      <guid isPermaLink="false">https://github.com/YuJunZhiXue/dsh-purge#2026-10-14T17:07:00Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:07:00 GMT</pubDate>
-      <description>DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 · ★ 5618 · JavaScript</description>
-    </item>
-    <item>
-      <title>awesome-dsh-plugin/awesome-dsh-plugin</title>
-      <link>https://dsh-plugin.github.io//market.html?p=awesome-dsh-plugin/awesome-dsh-plugin</link>
-      <guid isPermaLink="false">https://github.com/awesome-dsh-plugin/awesome-dsh-plugin#2026-10-14T17:06:35Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:06:35 GMT</pubDate>
-      <description>A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 · ★ 18765 · JavaScript</description>
-    </item>
-    <item>
-      <title>ruvnet/ruflo</title>
-      <link>https://dsh-plugin.github.io//market.html?p=ruvnet/ruflo</link>
-      <guid isPermaLink="false">https://github.com/ruvnet/ruflo#2026-10-14T17:06:29Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:06:29 GMT</pubDate>
-      <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated · ★ 74645 · TypeScript</description>
-    </item>
-    <item>
-      <title>KCNyu/clawock</title>
-      <link>https://dsh-plugin.github.io//market.html?p=KCNyu/clawock</link>
-      <guid isPermaLink="false">https://github.com/KCNyu/clawock#2026-10-14T17:06:11Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:06:11 GMT</pubDate>
-      <description>Investment workflows for AI agents: evidence, opposing cases, and outcomes checked by Python. · ★ 19 · Python</description>
-    </item>
-    <item>
-      <title>ranxianglei/billion-context</title>
-      <link>https://dsh-plugin.github.io//market.html?p=ranxianglei/billion-context</link>
-      <guid isPermaLink="false">https://github.com/ranxianglei/billion-context#2026-10-14T17:06:06Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:06:06 GMT</pubDate>
-      <description>A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need · ★ 1252 · TypeScript</description>
-    </item>
-    <item>
-      <title>liustack/modlens</title>
-      <link>https://dsh-plugin.github.io//market.html?p=liustack/modlens</link>
-      <guid isPermaLink="false">https://github.com/liustack/modlens#2026-10-14T17:05:34Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:05:34 GMT</pubDate>
-      <description>The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。 · ★ 4254 · TypeScript</description>
-    </item>
-    <item>
-      <title>bowenliang123/dsh-context</title>
-      <link>https://dsh-plugin.github.io//market.html?p=bowenliang123/dsh-context</link>
-      <guid isPermaLink="false">https://github.com/bowenliang123/dsh-context#2026-10-14T17:05:31Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:05:31 GMT</pubDate>
-      <description>The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。 · ★ 2116 · TypeScript</description>
-    </item>
-    <item>
-      <title>liustack/modsearch</title>
-      <link>https://dsh-plugin.github.io//market.html?p=liustack/modsearch</link>
-      <guid isPermaLink="false">https://github.com/liustack/modsearch#2026-10-14T17:05:02Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:05:02 GMT</pubDate>
-      <description>🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。 · ★ 685 · TypeScript</description>
+      <guid isPermaLink="false">https://github.com/Clearailhc/clearai-dsh#2026-10-14T21:41:07Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:41:07 GMT</pubDate>
+      <description>ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology. · ★ 893 · JavaScript</description>
     </item>
     <item>
       <title>shaobeichen/dsh-pocket</title>
       <link>https://dsh-plugin.github.io//market.html?p=shaobeichen/dsh-pocket</link>
-      <guid isPermaLink="false">https://github.com/shaobeichen/dsh-pocket#2026-10-14T17:04:46Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:04:46 GMT</pubDate>
-      <description>把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring) · ★ 1742 · JavaScript</description>
+      <guid isPermaLink="false">https://github.com/shaobeichen/dsh-pocket#2026-10-14T21:40:09Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:40:09 GMT</pubDate>
+      <description>把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring) · ★ 1746 · JavaScript</description>
     </item>
     <item>
-      <title>xmanrui/dsh-im</title>
-      <link>https://dsh-plugin.github.io//market.html?p=xmanrui/dsh-im</link>
-      <guid isPermaLink="false">https://github.com/xmanrui/dsh-im#2026-10-14T17:04:42Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:04:42 GMT</pubDate>
-      <description>通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels). · ★ 1986 · JavaScript</description>
+      <title>flymysql/dsh-remote</title>
+      <link>https://dsh-plugin.github.io//market.html?p=flymysql/dsh-remote</link>
+      <guid isPermaLink="false">https://github.com/flymysql/dsh-remote#2026-10-14T21:39:42Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:39:42 GMT</pubDate>
+      <description>Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace. · ★ 139 · JavaScript</description>
     </item>
     <item>
-      <title>flizzywine/dsh-tavern</title>
-      <link>https://dsh-plugin.github.io//market.html?p=flizzywine/dsh-tavern</link>
-      <guid isPermaLink="false">https://github.com/flizzywine/dsh-tavern#2026-10-14T17:04:30Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:04:30 GMT</pubDate>
-      <description>基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。 · ★ 961 · JavaScript</description>
+      <title>reactive-resume/reactive-resume</title>
+      <link>https://dsh-plugin.github.io//market.html?p=reactive-resume/reactive-resume</link>
+      <guid isPermaLink="false">https://github.com/reactive-resume/reactive-resume#2026-10-14T21:39:38Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:39:38 GMT</pubDate>
+      <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! · ★ 44298 · TypeScript</description>
     </item>
     <item>
-      <title>esengine/DeepSeek-Reasonix</title>
-      <link>https://dsh-plugin.github.io//market.html?p=esengine/DeepSeek-Reasonix</link>
-      <guid isPermaLink="false">https://github.com/esengine/DeepSeek-Reasonix#2026-10-14T17:04:16Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:04:16 GMT</pubDate>
-      <description>A reliable coding agent for complex software engineering tasks. · ★ 35795 · Go</description>
+      <title>tt-a1i/archify</title>
+      <link>https://dsh-plugin.github.io//market.html?p=tt-a1i/archify</link>
+      <guid isPermaLink="false">https://github.com/tt-a1i/archify#2026-10-14T21:39:34Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:39:34 GMT</pubDate>
+      <description>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. · ★ 83483 · JavaScript</description>
+    </item>
+    <item>
+      <title>Alisa0808/vox-director</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Alisa0808/vox-director</link>
+      <guid isPermaLink="false">https://github.com/Alisa0808/vox-director#2026-10-14T21:39:13Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:39:13 GMT</pubDate>
+      <description>Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill. · ★ 2268 · Python</description>
+    </item>
+    <item>
+      <title>beiyege-01/dsh-voice-ai-girlfriend</title>
+      <link>https://dsh-plugin.github.io//market.html?p=beiyege-01/dsh-voice-ai-girlfriend</link>
+      <guid isPermaLink="false">https://github.com/beiyege-01/dsh-voice-ai-girlfriend#2026-10-14T21:36:55Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:36:55 GMT</pubDate>
+      <description>语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。 · ★ 229 · TypeScript</description>
+    </item>
+    <item>
+      <title>ruvnet/ruflo</title>
+      <link>https://dsh-plugin.github.io//market.html?p=ruvnet/ruflo</link>
+      <guid isPermaLink="false">https://github.com/ruvnet/ruflo#2026-10-14T21:35:55Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:35:55 GMT</pubDate>
+      <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated · ★ 74669 · TypeScript</description>
+    </item>
+    <item>
+      <title>pax-beehive/dsh-hub-cli</title>
+      <link>https://dsh-plugin.github.io//market.html?p=pax-beehive/dsh-hub-cli</link>
+      <guid isPermaLink="false">https://github.com/pax-beehive/dsh-hub-cli#2026-10-14T21:35:12Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:35:12 GMT</pubDate>
+      <description>Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub · ★ 456 · TypeScript</description>
+    </item>
+    <item>
+      <title>FeatherHunter/dsh-mattpocock-skills-deck</title>
+      <link>https://dsh-plugin.github.io//market.html?p=FeatherHunter/dsh-mattpocock-skills-deck</link>
+      <guid isPermaLink="false">https://github.com/FeatherHunter/dsh-mattpocock-skills-deck#2026-10-14T21:33:24Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:33:24 GMT</pubDate>
+      <description>安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感谢您的使用和支持💗 · ★ 148 · JavaScript</description>
     </item>
     <item>
       <title>nexu-io/open-design</title>
       <link>https://dsh-plugin.github.io//market.html?p=nexu-io/open-design</link>
-      <guid isPermaLink="false">https://github.com/nexu-io/open-design#2026-10-14T17:04:03Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:04:03 GMT</pubDate>
-      <description>The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. · ★ 101136 · TypeScript</description>
+      <guid isPermaLink="false">https://github.com/nexu-io/open-design#2026-10-14T21:32:38Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:32:38 GMT</pubDate>
+      <description>The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. · ★ 101161 · TypeScript</description>
     </item>
     <item>
-      <title>corrinehu/dsh-workbuddy-connect</title>
-      <link>https://dsh-plugin.github.io//market.html?p=corrinehu/dsh-workbuddy-connect</link>
-      <guid isPermaLink="false">https://github.com/corrinehu/dsh-workbuddy-connect#2026-10-14T17:03:08Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:03:08 GMT</pubDate>
-      <description>将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration. · ★ 863 · TypeScript</description>
+      <title>ranxianglei/billion-context</title>
+      <link>https://dsh-plugin.github.io//market.html?p=ranxianglei/billion-context</link>
+      <guid isPermaLink="false">https://github.com/ranxianglei/billion-context#2026-10-14T21:31:39Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:31:39 GMT</pubDate>
+      <description>A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need · ★ 1260 · TypeScript</description>
     </item>
     <item>
-      <title>PC2005-cloud/dsh-pet</title>
-      <link>https://dsh-plugin.github.io//market.html?p=PC2005-cloud/dsh-pet</link>
-      <guid isPermaLink="false">https://github.com/PC2005-cloud/dsh-pet#2026-10-14T17:02:34Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:02:34 GMT</pubDate>
-      <description>DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物 · ★ 1417 · TypeScript</description>
+      <title>AdamPlatin123/dsh-plugin-radar</title>
+      <link>https://dsh-plugin.github.io//market.html?p=AdamPlatin123/dsh-plugin-radar</link>
+      <guid isPermaLink="false">https://github.com/AdamPlatin123/dsh-plugin-radar#2026-10-14T21:30:38Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:30:38 GMT</pubDate>
+      <description>DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物 · ★ 1474 · Python</description>
     </item>
     <item>
-      <title>omdsh-dev/dsh-mnemon</title>
-      <link>https://dsh-plugin.github.io//market.html?p=omdsh-dev/dsh-mnemon</link>
-      <guid isPermaLink="false">https://github.com/omdsh-dev/dsh-mnemon#2026-10-14T17:02:07Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:02:07 GMT</pubDate>
-      <description>Composable, view-based memory for DeepSeek Harness. Pluggable sources and strategies, with three-tier memory out of the box. · ★ 539 · TypeScript</description>
+      <title>YuJunZhiXue/dsh-purge</title>
+      <link>https://dsh-plugin.github.io//market.html?p=YuJunZhiXue/dsh-purge</link>
+      <guid isPermaLink="false">https://github.com/YuJunZhiXue/dsh-purge#2026-10-14T21:30:36Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:30:36 GMT</pubDate>
+      <description>DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 · ★ 5646 · JavaScript</description>
     </item>
     <item>
-      <title>Devin-AXIS/iPolloWork</title>
-      <link>https://dsh-plugin.github.io//market.html?p=Devin-AXIS/iPolloWork</link>
-      <guid isPermaLink="false">https://github.com/Devin-AXIS/iPolloWork#2026-10-14T17:01:50Z</guid>
-      <pubDate>Wed, 14 Oct 2026 17:01:50 GMT</pubDate>
-      <description>Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video. · ★ 6957 · TypeScript</description>
+      <title>esengine/DeepSeek-Reasonix</title>
+      <link>https://dsh-plugin.github.io//market.html?p=esengine/DeepSeek-Reasonix</link>
+      <guid isPermaLink="false">https://github.com/esengine/DeepSeek-Reasonix#2026-10-14T21:30:04Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:30:04 GMT</pubDate>
+      <description>A reliable coding agent for complex software engineering tasks. · ★ 35799 · Go</description>
+    </item>
+    <item>
+      <title>T-Auto/dsh-ops</title>
+      <link>https://dsh-plugin.github.io//market.html?p=T-Auto/dsh-ops</link>
+      <guid isPermaLink="false">https://github.com/T-Auto/dsh-ops#2026-10-14T21:29:25Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:29:25 GMT</pubDate>
+      <description>A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时 · ★ 1530 · JavaScript</description>
+    </item>
+    <item>
+      <title>QingYunA/answer-me-with-html</title>
+      <link>https://dsh-plugin.github.io//market.html?p=QingYunA/answer-me-with-html</link>
+      <guid isPermaLink="false">https://github.com/QingYunA/answer-me-with-html#2026-10-14T21:27:19Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:27:19 GMT</pubDate>
+      <description>Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 · ★ 3364 · JavaScript</description>
+    </item>
+    <item>
+      <title>strukto-ai/mirage</title>
+      <link>https://dsh-plugin.github.io//market.html?p=strukto-ai/mirage</link>
+      <guid isPermaLink="false">https://github.com/strukto-ai/mirage#2026-10-14T21:27:13Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:27:13 GMT</pubDate>
+      <description>The World's First Virtual Terminal for AI Agents · ★ 3689 · TypeScript</description>
+    </item>
+    <item>
+      <title>morluto/leantoken</title>
+      <link>https://dsh-plugin.github.io//market.html?p=morluto/leantoken</link>
+      <guid isPermaLink="false">https://github.com/morluto/leantoken#2026-10-14T21:27:04Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:27:04 GMT</pubDate>
+      <description>Code intelligence for agents: find the code that matters and keep your context window and tokens lean. · ★ 79 · Rust</description>
+    </item>
+    <item>
+      <title>volcengine/OpenViking</title>
+      <link>https://dsh-plugin.github.io//market.html?p=volcengine/OpenViking</link>
+      <guid isPermaLink="false">https://github.com/volcengine/OpenViking#2026-10-14T21:24:52Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:24:52 GMT</pubDate>
+      <description>Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. · ★ 39923 · Python</description>
+    </item>
+    <item>
+      <title>FeatherHunter/dsh-im-companion</title>
+      <link>https://dsh-plugin.github.io//market.html?p=FeatherHunter/dsh-im-companion</link>
+      <guid isPermaLink="false">https://github.com/FeatherHunter/dsh-im-companion#2026-10-14T21:22:13Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:22:13 GMT</pubDate>
+      <description>dsh-im-companion：以助理和家的概念增强 dsh-im——哪个工作区有助理在管、在不在线尽收眼底，搬家拖一下就行。 · ★ 27 · TypeScript</description>
+    </item>
+    <item>
+      <title>vshulcz/deja-vu</title>
+      <link>https://dsh-plugin.github.io//market.html?p=vshulcz/deja-vu</link>
+      <guid isPermaLink="false">https://github.com/vshulcz/deja-vu#2026-10-14T21:21:55Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:21:55 GMT</pubDate>
+      <description>Coding agent memory for Claude Code, Codex, Cursor and 38 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary. · ★ 1197 · Go</description>
+    </item>
+    <item>
+      <title>zhu1090093659/dsh-web</title>
+      <link>https://dsh-plugin.github.io//market.html?p=zhu1090093659/dsh-web</link>
+      <guid isPermaLink="false">https://github.com/zhu1090093659/dsh-web#2026-10-14T21:21:05Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:21:05 GMT</pubDate>
+      <description>DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop · ★ 8758 · TypeScript</description>
+    </item>
+    <item>
+      <title>walkinglabs/learn-harness-engineering</title>
+      <link>https://dsh-plugin.github.io//market.html?p=walkinglabs/learn-harness-engineering</link>
+      <guid isPermaLink="false">https://github.com/walkinglabs/learn-harness-engineering#2026-10-14T21:20:37Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:20:37 GMT</pubDate>
+      <description>Harness engineering beginner tutorial, from 0 to 1 · ★ 19867 · TypeScript</description>
+    </item>
+    <item>
+      <title>titanwings/distilly</title>
+      <link>https://dsh-plugin.github.io//market.html?p=titanwings/distilly</link>
+      <guid isPermaLink="false">https://github.com/titanwings/distilly#2026-10-14T21:18:41Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:18:41 GMT</pubDate>
+      <description>Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. · ★ 25625 · Python</description>
+    </item>
+    <item>
+      <title>xmanrui/dsh-im</title>
+      <link>https://dsh-plugin.github.io//market.html?p=xmanrui/dsh-im</link>
+      <guid isPermaLink="false">https://github.com/xmanrui/dsh-im#2026-10-14T21:16:51Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:16:51 GMT</pubDate>
+      <description>通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels). · ★ 1992 · JavaScript</description>
+    </item>
+    <item>
+      <title>Duskriver/dsh-opencode-go</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Duskriver/dsh-opencode-go</link>
+      <guid isPermaLink="false">https://github.com/Duskriver/dsh-opencode-go#2026-10-14T21:16:34Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:16:34 GMT</pubDate>
+      <description>用于deepseek-harness的opencode-go套餐增强插件。多账号管理、额度UI面板、自动更新模型。An opencode-go subscription enhancement plugin for deepseek-harness — featuring multi-account management, a quota UI panel, and automatic model updates. · ★ 123 · TypeScript</description>
+    </item>
+    <item>
+      <title>liustack/modsearch</title>
+      <link>https://dsh-plugin.github.io//market.html?p=liustack/modsearch</link>
+      <guid isPermaLink="false">https://github.com/liustack/modsearch#2026-10-14T21:14:15Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:14:15 GMT</pubDate>
+      <description>🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。 · ★ 687 · TypeScript</description>
+    </item>
+    <item>
+      <title>anywhere-labs/dsh-desktop</title>
+      <link>https://dsh-plugin.github.io//market.html?p=anywhere-labs/dsh-desktop</link>
+      <guid isPermaLink="false">https://github.com/anywhere-labs/dsh-desktop#2026-10-14T21:12:38Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:12:38 GMT</pubDate>
+      <description>为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 · ★ 30833 · TypeScript</description>
+    </item>
+    <item>
+      <title>awesome-dsh-plugin/awesome-dsh-plugin</title>
+      <link>https://dsh-plugin.github.io//market.html?p=awesome-dsh-plugin/awesome-dsh-plugin</link>
+      <guid isPermaLink="false">https://github.com/awesome-dsh-plugin/awesome-dsh-plugin#2026-10-14T21:12:38Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:12:38 GMT</pubDate>
+      <description>A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 · ★ 18771 · JavaScript</description>
+    </item>
+    <item>
+      <title>elysia395/dsh-wallpaper-engine</title>
+      <link>https://dsh-plugin.github.io//market.html?p=elysia395/dsh-wallpaper-engine</link>
+      <guid isPermaLink="false">https://github.com/elysia395/dsh-wallpaper-engine#2026-10-14T21:12:11Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:12:11 GMT</pubDate>
+      <description>把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。 · ★ 1270 · JavaScript</description>
+    </item>
+    <item>
+      <title>xiaoyuyu6420/dsh-backup</title>
+      <link>https://dsh-plugin.github.io//market.html?p=xiaoyuyu6420/dsh-backup</link>
+      <guid isPermaLink="false">https://github.com/xiaoyuyu6420/dsh-backup#2026-10-14T21:11:43Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:11:43 GMT</pubDate>
+      <description>一条命令备份/恢复/迁移 DSH 全部数据（~/.dsh）：升级前快照、换机迁移（会话/插件/MCP/技能）、会话日志修复、进程外救援、凭据脱敏。One-command backup / restore / migration for DeepSeek Harness. · ★ 27 · JavaScript</description>
+    </item>
+    <item>
+      <title>Fei2411/DeepSeek-Bot</title>
+      <link>https://dsh-plugin.github.io//market.html?p=Fei2411/DeepSeek-Bot</link>
+      <guid isPermaLink="false">https://github.com/Fei2411/DeepSeek-Bot#2026-10-14T21:06:35Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:06:35 GMT</pubDate>
+      <description>A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. · ★ 1873 · JavaScript</description>
+    </item>
+    <item>
+      <title>MichengAI/dsh-im-connect</title>
+      <link>https://dsh-plugin.github.io//market.html?p=MichengAI/dsh-im-connect</link>
+      <guid isPermaLink="false">https://github.com/MichengAI/dsh-im-connect#2026-10-14T21:06:27Z</guid>
+      <pubDate>Wed, 14 Oct 2026 21:06:27 GMT</pubDate>
+      <description>DSH IM Connect — 将主流即时通讯平台接入本机 DeepSeek Harness · Connect major messaging platforms to local DeepSeek Harness agents · ★ 56 · JavaScript</description>
     </item>
   </channel>
 </rss>
